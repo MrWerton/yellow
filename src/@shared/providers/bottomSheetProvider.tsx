@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useState } from "react"
 import { BottomSheetContext } from "../contexts/bottomSheetContext"
 
 export const BottomSheetProvider = ({ children }) => {
